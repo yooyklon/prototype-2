@@ -1,1 +1,1 @@
-# prototype-2
+[![Build status](https://ci.appveyor.com/api/projects/status/giadunv6g5l06qdr?svg=true)](https://ci.appveyor.com/project/yooyklon/prototype-2)
